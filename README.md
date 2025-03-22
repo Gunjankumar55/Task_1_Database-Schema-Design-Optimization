@@ -5,3 +5,11 @@ This project implements a database schema for a Pharmacy Management System. It i
 - **Orders**: Track customer orders and their statuses.
 - **Payments**: Manage payment information associated with orders.
 - **Inventory**: Monitor stock levels and turnover rates.
+## Files
+- `schema.sql`: Contains the database schema and sample data for the pharmacy management system.
+- `queries.sql`: Includes SQL queries for business analysis, such as retrieving top-selling medicines and calculating inventory turnover rates.
+- `README.md`: Overview of the project.
+
+## Technologies Used
+- MySQL for database management
+- SQL for data manipulation and querying
